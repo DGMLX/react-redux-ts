@@ -24,10 +24,7 @@ return(
                 <ProtectedRoute>
                     <DashboardPage/>
                 </ProtectedRoute>
-            
             }/>
-    
-    
         </Routes>
     </>
 )
